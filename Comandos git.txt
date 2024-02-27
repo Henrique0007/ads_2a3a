@@ -38,4 +38,9 @@ git reset --hard iddocommit
 
 git reset --hard head~1 (retorna 1 versao, ~2 retorna duas versoes)
 
+--git clone endereço do repositorio
+--git remote (o proprio github gera esse comando quando criamos o repositorio)
+--git push -u origin main (subir para o remoto)
+--git pull (verifica se a versao local esta igual a versao do remoto)
+
 
